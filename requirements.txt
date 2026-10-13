@@ -1,0 +1,20 @@
+# Core dependencies
+pandas>=2.0.0
+numpy>=1.24.0
+pymongo>=4.6.0
+scipy>=1.10.0
+
+# Web framework
+streamlit>=1.28.0
+
+# Visualization
+plotly>=5.17.0
+
+# Config
+python-dotenv>=1.0.0
+
+# Optional - enables AI-generated investment memo text (generate_ai_recommendations
+# in analysis_engine.py). Without an OPENAI_API_KEY/ANTHROPIC_API_KEY set, the app
+# falls back to rule-based recommendations and never imports these.
+openai>=1.0.0
+anthropic>=0.25.0

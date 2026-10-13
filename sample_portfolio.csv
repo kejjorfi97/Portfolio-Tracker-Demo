@@ -1,0 +1,16 @@
+Ticker,Quantity,Category,Cost_Basis_per_Share
+ATW,100,Banks,450.00
+BCP,150,Banks,260.00
+CIH,120,Banks,280.00
+IAM,200,Telecommunications,95.00
+LHM,50,Building Materials,2000.00
+CMA,80,Building Materials,1500.00
+WAA,80,Insurance,4200.00
+SAH,100,Insurance,600.00
+ADH,300,Real Estate,30.00
+MNG,60,Mining,2200.00
+CSR,90,Food & Beverage,260.00
+LBV,40,Distribution,2100.00
+TQM,150,Utilities,110.00
+CASH,50000,Cash,1.00
+ARD,-100,Real Estate,450.00
